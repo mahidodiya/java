@@ -1,17 +1,18 @@
 import java.awt.*;
-class buttonexample;
+public class buttonexample
 {
-public static void main(string args[])
-{
+ public static void main (String[] args)
+ {
 
-	Frame f =new Frame("awt Button Example");
+	Frame f = new Frame("Button Example");
 
-	Button b=new Button("Submit");
-	b.setbounds(10,20,100,100);
-	
-	f.add(b);
-	f.setsize(400,400);
-	f.setvisible(true);
+	Button b = new Button("Click Here");
 
-}
+	b.setBounds(10,20,40,30);
+
+ 	f.add(b);
+ 	f.setSize(400,400);
+ 	f.setVisible(true);
+		
+ }
 }

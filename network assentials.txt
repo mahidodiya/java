@@ -1,0 +1,5 @@
+What is Centralized Computing?
+
+Centralized computing refers to a system where all processing and data storage is handled by a single, central device or system. This central device is responsible for processing all requests and managing all data, and all other devices in the system are connected to it and rely on it for their computing needs.
+
+One example of a centralized computing system is a traditional mainframe system, where a central mainframe computer handles all processing and data storage for the system. In this type of system, users access the mainframe through terminals or other devices that are connected to it.
